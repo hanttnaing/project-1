@@ -133,12 +133,24 @@ input#open {
     text-align: center;
 }
 
-.button{
+.button1{
   position: absolute;
   background: #fadadd;
 	border: 2px solid lightpink;
 	font-size: 20px;
   border-radius: 5px;
   margin-top: 400px;
+  margin-right: 100px;
+}
+
+.button2{
+  position: absolute;
+  background: #fadadd;
+	border: 2px solid lightpink;
+	font-size: 20px;
+  border-radius: 5px;
+  margin-top: 400px;
+  margin-left: 100px;
+
 }
 
